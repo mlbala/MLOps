@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+pyyaml
+tensorflow
+python-dotenv
+flask
